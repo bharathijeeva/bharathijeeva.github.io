@@ -14,16 +14,17 @@ author_profile: true
 [<a href="https://www.sciencedirect.com/science/article/pii/S0370157322000047" target="_blank">Physics Reports 956 (2022)</a>] 
 
 1. *Tuning for Quantum Advantage in Directed Lackadaisical Quantum Walks* <br>
-J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, R. Finkelstein, J. P. Covey, J. S. Cotler, D. K. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. G. S. L. Brandao, S. Choi, M. Endres. <br>
-*<a href="https://arxiv.org/abs/2211.06167" target="_blank">arXiv:2211.06167(2022)</a>.* [<a href="https://arxiv.org/abs/2103.03535" target="_blank">pdf</a>]
+Pranay Naredi, J Bharathi Kannan, MS Santhanam. <br>
+*<a href="https://arxiv.org/abs/2211.06167" target="_blank">arXiv:2211.06167(2022)</a>.* [<a href="https://arxiv.org/pdf/2211.06167.pdf" target="_blank">pdf</a>]
 
 1. *Interplay between quantum diffusion and localization in the atom-optics kicked rotor* <br>
-J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), F. Hernandez, J. Choi, A. L. Shaw, M. Endres, S. Choi.<br>
-*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311?ft=1" target="_blank">PRX Quantum (2023)</a>.*
-[<a href="https://arxiv.org/abs/2103.03536" target="_blank">pdf</a>]
+S Sagar Maurya, J Bharathi Kannan, Kushal Patel, Pranab Dutta, Korak Biswas, Jay Mangaonkar, MS Santhanam, Umakant D Rapol.<br>
+*<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034207" target="_blank">PHYSICAL REVIEW E 106, 034207 (2022)</a>.*
+[<a href="https://journals.aps.org/pre/pdf/10.1103/PhysRevE.106.034207" target="_blank">pdf</a>]
 
 
 1. *Interaction-induced directed transport in quantum chaotic systems* <br>
-J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), F. Hernandez, J. Choi, A. L. Shaw, M. Endres, S. Choi.<br>
-*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311?ft=1" target="_blank">PRX Quantum (2023)</a>.*
-[<a href="https://arxiv.org/abs/2103.03536" target="_blank">pdf</a>]
+S Paul, JB Kannan, MS Santhanam.<br>
+*<a href="https://arxiv.org/abs/2206.07063" target="_blank">arXiv:2206.07063
+ (2022)</a>.*
+[<a href="https://arxiv.org/pdf/2206.07063.pdf" target="_blank">pdf</a>]
