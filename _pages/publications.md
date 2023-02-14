@@ -11,7 +11,7 @@ author_profile: true
 
 1. *Quantum kicked rotor and its variants: Chaos, localization and beyond* <br>
  MS Santhanam, S Paul, JB Kannan<br>
-[<a href="https://www.sciencedirect.com/science/article/pii/S0370157322000047" target="_blank">pdf</a>] 
+[<a href="https://www.sciencedirect.com/science/article/pii/S0370157322000047" target="_blank">Physics Reports 956 (2022) 1–87</a>] 
 
 1. *Tuning for Quantum Advantage in Directed Lackadaisical Quantum Walks* <br>
 J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, R. Finkelstein, J. P. Covey, J. S. Cotler, D. K. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. G. S. L. Brandao, S. Choi, M. Endres. <br>
