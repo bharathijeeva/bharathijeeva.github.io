@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications:
 
-<a href="https://scholar.google.com/citations?user=08WehAsAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
+
+<a href="https://scholar.google.com/citations?user=08WehAsAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
 
 1. *Quantum kicked rotor and its variants: Chaos, localization and beyond* <br>
  MS Santhanam, S Paul, JB Kannan<br>
