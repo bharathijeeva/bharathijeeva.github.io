@@ -11,11 +11,11 @@ author_profile: true
 
 1. *Quantum kicked rotor and its variants: Chaos, localization and beyond* <br>
  MS Santhanam, S Paul, JB Kannan<br>
-[<a href="https://www.sciencedirect.com/science/article/pii/S0370157322000047" target="_blank">Physics Reports 956 (2022) 1–87</a>] 
+[<a href="https://www.sciencedirect.com/science/article/pii/S0370157322000047" target="_blank">Physics Reports 956 (2022)</a>] 
 
 1. *Tuning for Quantum Advantage in Directed Lackadaisical Quantum Walks* <br>
 J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, R. Finkelstein, J. P. Covey, J. S. Cotler, D. K. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. G. S. L. Brandao, S. Choi, M. Endres. <br>
-*<a href="https://www.nature.com/articles/s41586-022-05442-1" target="_blank">Nature (2023)</a>.* [<a href="https://arxiv.org/abs/2103.03535" target="_blank">pdf</a>]
+*<a href="https://arxiv.org/abs/2211.06167" target="_blank">arXiv:2211.06167(2022)</a>.* [<a href="https://arxiv.org/abs/2103.03535" target="_blank">pdf</a>]
 
 1. *Interplay between quantum diffusion and localization in the atom-optics kicked rotor* <br>
 J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), F. Hernandez, J. Choi, A. L. Shaw, M. Endres, S. Choi.<br>
