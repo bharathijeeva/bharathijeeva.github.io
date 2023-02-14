@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bharathi Kannan J"
+title                    : "BK"
 title_separator          : "-"
-name                     : &name "kannan"
+name                     : #&name "kannan"
 description              : &description "personal description"
 url                      : https://bharathijeeva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/bharathi_kj29"
+  twitter          : "bharathi_kj29"
   vine             :
   weibo            :
   xing             :
