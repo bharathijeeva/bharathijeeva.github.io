@@ -25,6 +25,6 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 
 <center>
 <img src="images/chaos_butterfly.png"
-     alt=""
+     alt="chaos"
      style="text-align:center; width:55%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
 </center>
