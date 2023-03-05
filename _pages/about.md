@@ -24,7 +24,7 @@ I utilize tools in quantum information theory, statistical learning theory, comp
 My ultimate dream is to build quantum machines capable of learning and discovering new facets of our universe beyond humans and classical machines.
 
 <center>
-<img src="assets/img/Intelligence.jpg"
-     alt="Cartoon depiction of intelligence"
+<img src="images/chaos_butterfly.png"
+     alt=""
      style="text-align:center; width:55%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
 </center>
