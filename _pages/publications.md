@@ -30,11 +30,10 @@ S Paul, JB Kannan, MS Santhanam.<br>
 [<a href="https://arxiv.org/pdf/2206.07063.pdf" target="_blank">pdf</a>]
 
 
-
 1. *Chaos and Dynamical localization in interacting kicked systems* <br>
 Anjali Nambudiripad, J .Bharathi Kannan, MS Santhanam.<br>
-*<a href="[https://arxiv.org/pdf/2304.08899" target="_blank">arXiv:2304.08899
- (2023)</a>.*]
+*<a href="https://arxiv.org/pdf/2304.08899" target="_blank">arXiv:2304.08899
+ (2023)</a>.*
 [<a href="https://arxiv.org/pdf/2304.08899.pdf" target="_blank">pdf</a>]
 
 
